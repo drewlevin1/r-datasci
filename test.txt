@@ -1,0 +1,6 @@
+This is a test file.
+Thing 1
+Option 2
+OK 
+need a new line here 3
+This is version 2's file
